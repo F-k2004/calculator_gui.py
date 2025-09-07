@@ -1,5 +1,5 @@
 # calculator_gui.py
-import tkinter as t
+import tkinter as tk
 
 def press(key):
     entry.insert(tk.END, key)
